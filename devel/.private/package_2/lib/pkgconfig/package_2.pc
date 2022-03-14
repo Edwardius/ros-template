@@ -1,8 +1,0 @@
-prefix=/home/edwardius/code/wato_ros_template/devel/.private/package_2
-
-Name: package_2
-Description: Description of package_2
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

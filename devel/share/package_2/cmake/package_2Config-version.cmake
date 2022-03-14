@@ -1,1 +1,0 @@
-/home/edwardius/code/wato_ros_template/devel/.private/package_2/share/package_2/cmake/package_2Config-version.cmake

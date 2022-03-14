@@ -1,5 +1,0 @@
-launch_package
-/home/edwardius/code/wato_ros_template/devel/.private/launch_package/cmake.lock /home/edwardius/code/wato_ros_template/devel/./cmake.lock
-/home/edwardius/code/wato_ros_template/devel/.private/launch_package/lib/pkgconfig/launch_package.pc /home/edwardius/code/wato_ros_template/devel/lib/pkgconfig/launch_package.pc
-/home/edwardius/code/wato_ros_template/devel/.private/launch_package/share/launch_package/cmake/launch_packageConfig-version.cmake /home/edwardius/code/wato_ros_template/devel/share/launch_package/cmake/launch_packageConfig-version.cmake
-/home/edwardius/code/wato_ros_template/devel/.private/launch_package/share/launch_package/cmake/launch_packageConfig.cmake /home/edwardius/code/wato_ros_template/devel/share/launch_package/cmake/launch_packageConfig.cmake

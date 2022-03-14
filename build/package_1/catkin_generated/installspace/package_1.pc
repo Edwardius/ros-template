@@ -1,8 +1,0 @@
-prefix=/home/edwardius/code/wato_ros_template/install
-
-Name: package_1
-Description: Description of package_1
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 

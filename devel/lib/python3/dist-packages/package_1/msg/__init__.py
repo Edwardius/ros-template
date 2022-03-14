@@ -1,1 +1,0 @@
-/home/edwardius/code/wato_ros_template/devel/.private/package_1/lib/python3/dist-packages/package_1/msg/__init__.py

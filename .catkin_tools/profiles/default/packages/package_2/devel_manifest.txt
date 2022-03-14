@@ -1,5 +1,0 @@
-package_2
-/home/edwardius/code/wato_ros_template/devel/.private/package_2/cmake.lock /home/edwardius/code/wato_ros_template/devel/./cmake.lock
-/home/edwardius/code/wato_ros_template/devel/.private/package_2/lib/pkgconfig/package_2.pc /home/edwardius/code/wato_ros_template/devel/lib/pkgconfig/package_2.pc
-/home/edwardius/code/wato_ros_template/devel/.private/package_2/share/package_2/cmake/package_2Config.cmake /home/edwardius/code/wato_ros_template/devel/share/package_2/cmake/package_2Config.cmake
-/home/edwardius/code/wato_ros_template/devel/.private/package_2/share/package_2/cmake/package_2Config-version.cmake /home/edwardius/code/wato_ros_template/devel/share/package_2/cmake/package_2Config-version.cmake
