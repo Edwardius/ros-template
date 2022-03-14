@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/edwardius/code/wato_ros_template/devel/.private/package_2/setup.sh

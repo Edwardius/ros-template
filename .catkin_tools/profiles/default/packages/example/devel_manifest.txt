@@ -1,0 +1,5 @@
+example
+/home/edwardius/code/wato_ros_template/devel/.private/example/cmake.lock /home/edwardius/code/wato_ros_template/devel/./cmake.lock
+/home/edwardius/code/wato_ros_template/devel/.private/example/lib/pkgconfig/example.pc /home/edwardius/code/wato_ros_template/devel/lib/pkgconfig/example.pc
+/home/edwardius/code/wato_ros_template/devel/.private/example/share/example/cmake/exampleConfig-version.cmake /home/edwardius/code/wato_ros_template/devel/share/example/cmake/exampleConfig-version.cmake
+/home/edwardius/code/wato_ros_template/devel/.private/example/share/example/cmake/exampleConfig.cmake /home/edwardius/code/wato_ros_template/devel/share/example/cmake/exampleConfig.cmake

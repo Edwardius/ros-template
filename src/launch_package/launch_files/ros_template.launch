@@ -1,0 +1,22 @@
+<!--http://wiki.ros.org/roslaunch/XML-->
+
+<launch>
+
+    <param name="custom_message_topic_name" type="string" value="/apple"/> 
+    <param name="accel_topic_name" type="string" value="/banana"/> 
+
+    <node name="node_a" pkg="package_1" type="nodea.py">
+        <param name="x" type="double" value="9.1"/> 
+        <param name="y" type="double" value="8.8"/>
+        <param name="z" type="double" value="-0.5"/>
+    </node>
+
+    <node name="node_b" pkg="package_1" type="nodeb.py">
+        <param name="x" type="double" value="3.1"/> 
+        <param name="y" type="double" value="0.6"/>
+        <param name="z" type="double" value="9.1"/>
+    </node>
+
+    <node name="node_c" pkg="package_2" type="nodec.py"/>
+        
+</launch>

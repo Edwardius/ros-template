@@ -1,0 +1,6 @@
+devel_space: /home/edwardius/code/wato_ros_template/devel
+install: false
+install_space: /home/edwardius/code/wato_ros_template/install
+profile: default
+source_space: /home/edwardius/code/wato_ros_template/src
+workspace: /home/edwardius/code/wato_ros_template

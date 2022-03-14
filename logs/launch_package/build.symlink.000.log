@@ -1,0 +1,3 @@
+Symlinking /home/edwardius/code/wato_ros_template/devel/lib/pkgconfig/launch_package.pc
+Symlinking /home/edwardius/code/wato_ros_template/devel/share/launch_package/cmake/launch_packageConfig-version.cmake
+Symlinking /home/edwardius/code/wato_ros_template/devel/share/launch_package/cmake/launch_packageConfig.cmake

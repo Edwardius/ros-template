@@ -1,0 +1,3 @@
+Header header
+string message
+geometry_msgs/Point coordinate

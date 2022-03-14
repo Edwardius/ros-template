@@ -1,0 +1,3 @@
+Symlinking /home/edwardius/code/wato_ros_template/devel/lib/pkgconfig/example.pc
+Symlinking /home/edwardius/code/wato_ros_template/devel/share/example/cmake/exampleConfig-version.cmake
+Symlinking /home/edwardius/code/wato_ros_template/devel/share/example/cmake/exampleConfig.cmake

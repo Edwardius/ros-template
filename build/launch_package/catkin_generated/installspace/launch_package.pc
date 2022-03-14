@@ -1,0 +1,8 @@
+prefix=/home/edwardius/code/wato_ros_template/install
+
+Name: launch_package
+Description: Description of launch_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
