@@ -2,6 +2,8 @@
 
 This project contains an isolated ros workspace containing 3 nodes in two packages: package_1 and package_2. This repo was used to teach members new to WATO the basic tools of ROS and how WATonomous utilizes them.
 
+To start off, please take a look at https://www.rosroboticslearning.com/basics-of-ros
+
 ```
 WATO_ROS_TEMPLATE
 ├── CMakeLists.txt -> /opt/ros/noetic/share/catkin/cmake/toplevel.cmake
